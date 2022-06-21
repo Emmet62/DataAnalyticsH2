@@ -8,7 +8,7 @@ feedparser==5.2.1
 idna==2.6
 matplotlib==2.1.2
 nltk==3.2.5
-numpy==1.14.0
+numpy==1.22.0
 pandas==0.22.0
 pycparser==2.18
 pyOpenSSL==17.5.0
